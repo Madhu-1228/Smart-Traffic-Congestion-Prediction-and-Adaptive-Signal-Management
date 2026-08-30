@@ -296,7 +296,6 @@ The proposed framework can be applied in:
 * Traffic monitoring systems
 * Urban congestion management
 * Emergency route optimization
-* IoT-based traffic infrastructure
 * City-level transportation planning
 
 ---
