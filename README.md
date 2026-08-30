@@ -1,12 +1,12 @@
 # Smart-Traffic-Congestion-Prediction-and-Adaptive-Signal-Management
 # 🚦 Smart Traffic Congestion Prediction & Adaptive Signal Management
 
-### Final Project Report
+📋 Project Information
 
-**Program:** APSSDC Machine Learning Internship
-**Project Domain:** Machine Learning, Deep Learning & Reinforcement Learning
-**Platform:** Jupyter Notebook
-**Language:** Python
+Program: APSSDC Machine Learning Internship
+Project Domain: Machine Learning, Deep Learning & Reinforcement Learning
+Platform: Jupyter Notebook
+Programming Language: Python
 
 ---
 
